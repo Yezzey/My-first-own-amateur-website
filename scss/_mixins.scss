@@ -1,0 +1,6 @@
+@mixin imaGe($link) {
+    background-image: url($link);
+    background-position: center;
+	background-size: cover;
+	overflow: hidden;
+}
